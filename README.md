@@ -8,7 +8,7 @@
 3. Click `Create repository from template`
 4. Go to the settings tab at the top
 5. Under the `Github Pages` section, check if it says `Your site is published at <username>.github.io`. If not wait a minute then refresh the page, repeating this until the page is published
-6. Click the link to the page. The title should be `horse`, the icon should be the `baldperm` emoji, the background should be the transgender flag and clicking the image should take you to <https://neyoa.me/>
+6. Click the link to the page. The title should be `horse`, the icon should be the `baldperm` emoji, the background should be the transgender flag and clicking the image should take you to <https://horsescary.com/>
 7. Whenever you make changes, you can always check if the website's updated by checking the `Github pages` section in settings - If its green it's updated, if its grey it hasn't yet
 
 
@@ -39,9 +39,9 @@ background-image: linear-gradient(#5dcdf5, #f7a9b7, #ffffff, #f7a9b7, #5dcdf5);
 
 1. Go to the `Code` tab on the github repo page
 2. Click `index.html` and open it by pressing the edit button (pencil icon) in the top right of the code box
-3. Replace `neyoa.me` with the website you want to redirect to on line 19
+3. Replace `horsescary.com` with the website you want to redirect to on line 19
 ```html
-    <a href="https://neyoa.me/">
+    <a href="https://horsescary.com/">
 ```
 4. Click the green `Commit changes` button at the bottom - the website may take a few minutes to update
 
