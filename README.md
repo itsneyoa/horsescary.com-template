@@ -3,7 +3,7 @@
 
 ## Getting Started
 
-1. Click [this link](https://github.com/itsneyoa/horsescary.com-template/generate)
+1. Click `Use this template` at the top of this page
 2. Set the repository name to `<username>.github.io`, replacing `<username>` with your github username
 3. Click `Create repository from template`
 4. Go to the settings tab at the top
